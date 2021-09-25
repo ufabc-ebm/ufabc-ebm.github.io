@@ -14,7 +14,16 @@ document.write('\
           <p class="nav-text"></p>\
           <ul class="right chevron">\
             <li><a href="index.html">Início</a></li>\
-            <li><a href="curso.html">Sobre o curso</a></li>\
+            <li><a href="curso.html">Sobre o curso</a>\
+				<ul>\
+					<li><a href="curso.html#ingresso">Ingresso no curso</a></li>\
+					<li><a href="curso.html#BCT">Bacharelado em Ciências e Tecnologia (BC&T)</a></li>\
+					<li><a href="curso.html#InformacaoCurso">Informações  sobre o curso</a> </li>\
+					<li><a href="curso.html#CorpoDocente">O corpo docente</a> </li>\
+					<li><a href="curso.html#Disc">Disciplinas especí­ficas do curso</a> </li>\
+					<li><a href="curso.html#Eixos">Eixos do curso</a> </li>\
+				</ul>\
+            </li>\
 			<li><a href="Biomateriais.html">Biomateriais</a>\
 				<ul>\
 					<li><a href="Biomateriais.html">Biomateriais e dispositivos implantáveis</a></li>\
