@@ -45,10 +45,6 @@ document.write('\
 			<li><a href="EngenhariaClinica.html">Eng. Cl&iacute;nica</a>\
 				<ul>\
 					<li><a href="EngenhariaClinica.html#oqueehengclin">O que é Engenharia Clínica?</a></li>\
-					<li><a href="EngenhariaClinica.html#biomat"       >Biomateriais e dispositivos implantáveis</a></li>\
-					<li><a href="EngenhariaClinica.html#Avancos"      >Avanços tecnológicos na área</a></li>\
-					<li><a href="EngenhariaClinica.html#MedRegen"     >Medicina Regenerativa</a> </li>\
-					<li><a href="EngenhariaClinica.html#EngTecidual"  >Engenharia Tecidual</a> </li>\
 				</ul>\
 			</li>\
             <li><a href="Instrumentacao.html">Instrumentação</a>\
@@ -66,14 +62,15 @@ document.write('\
             <li><a href="Computacionais.html">Sist. Computacionais</a>\
 				<ul>\
 					<li><a href="Computacionais.html#Atuacao"         >O que são sistemas computacionais aplicados a ciências da vida?</a></li>\
-					<li><a href="Computacionais.html#Disciplinas"     >Disciplinas do eixo</a></li>\
+					<li><a href="Computacionais.html#Modelagem"       >Modelagem</a></li>\
 					<li><a href="Computacionais.html#BASeIM"          >Bioinformática Aplicada à Saúde e Informática Médica</a></li>\
 					<li><a href="Computacionais.html#BHIG"            >Bioinformatics and Health Informatics Group</a></li>\
 					<li><a href="Computacionais.html#Prostata"        >Relação genética para câncer de próstata</a></li>\
 					<li><a href="Computacionais.html#SinaisBiologicos">O que é Processamento de Sinais Biológicos?</a></li>\
 					<li><a href="Computacionais.html#ProtSup"         >Próteses Mioelétricas de Membro Superior</a></li>\
 					<li><a href="Computacionais.html#BSPM"            >Sistemas de Diagnósticos para Doenças do Coração</a> </li>\
-					<li><a href="Computacionais.html#Modelagem"       >Modelagem</a></li>\
+					<li><a href="Computacionais.html#SisFluido"       >Simulações fluidodinâmicas na Engenharia Biomédica</a> </li>\
+					<li><a href="Computacionais.html#BSPM"            >Sistemas de Diagnósticos para Doenças do Coração</a> </li>\
 				</ul> \
 			</li>\
           </ul>\
