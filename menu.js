@@ -70,7 +70,7 @@ document.write('\
 					<li><a href="Computacionais.html#ProtSup"         >Próteses Mioelétricas de Membro Superior</a></li>\
 					<li><a href="Computacionais.html#BSPM"            >Sistemas de Diagnósticos para Doenças do Coração</a> </li>\
 					<li><a href="Computacionais.html#SisFluido"       >Simulações fluidodinâmicas na Engenharia Biomédica</a> </li>\
-					<li><a href="Computacionais.html#BSPM"            >Sistemas de Diagnósticos para Doenças do Coração</a> </li>\
+					<li><a href="Computacionais.html#IntArt"            >Inteligência Artificial Aplicada à Saúde</a> </li>\
 				</ul> \
 			</li>\
           </ul>\
